@@ -38167,6 +38167,8 @@ with pkgs;
 
   betaflight-configurator = callPackage ../applications/science/robotics/betaflight-configurator { };
 
+  betaflight-blackbox-explorer = callPackage ../applications/science/robotics/betaflight-blackbox-explorer { };
+
   emuflight-configurator = callPackage ../applications/science/robotics/emuflight-configurator { };
 
   inav-configurator = callPackage ../applications/science/robotics/inav-configurator { };
