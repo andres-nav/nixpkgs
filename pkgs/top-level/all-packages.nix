@@ -1635,6 +1635,8 @@ with pkgs;
 
   hblock = callPackage ../tools/networking/hblock { };
 
+  hardhat = callPackage ../development/tools/hardhat { };
+
   headsetcontrol = callPackage ../tools/audio/headsetcontrol { };
 
   headset-charge-indicator = callPackage ../tools/audio/headset-charge-indicator { };

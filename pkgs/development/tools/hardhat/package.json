@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "hardhat": "2.15.0"
+    },
+    "name": "hardhat",
+    "version": "2.15.0",
+    "license": "MIT"
+}
